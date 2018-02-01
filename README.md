@@ -1,2 +1,3 @@
 # hello-world
-Practice repository
+Practice Repository
+This seems pretty easy.
